@@ -1,0 +1,11 @@
+package com.technoelevate.restaurant;
+
+public class GenerateBill {
+
+	GetItem getItems=new GetItem();
+	
+	public void selectedItems(int [] a) {
+		Items[] item =getItems.getListItems();
+		
+	}
+}

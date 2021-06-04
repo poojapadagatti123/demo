@@ -1,0 +1,11 @@
+package com.technoelevate.jobportal;
+
+public class Candidate {
+
+	public String name;
+	public double tenthpercentage;
+	public double pucpercentage;
+	public double degreethpercentage;
+	public int year;
+	
+}

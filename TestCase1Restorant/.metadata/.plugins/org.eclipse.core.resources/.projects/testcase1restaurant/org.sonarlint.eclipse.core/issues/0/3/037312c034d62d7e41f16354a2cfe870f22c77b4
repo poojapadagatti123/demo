@@ -1,0 +1,15 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(ñÄ‘Ìùÿÿÿÿ8Õ—”‰/H¨RMAJORZ
+CODE_SMELL
+„
+java:S1104!"QMake price a static final constant or non-public and provide accessors if needed.(¢ì­ 8Õ—”‰/H»RMINORZ
+CODE_SMELL
+„
+java:S1104 "QMake items a static final constant or non-public and provide accessors if needed.(îì‹8Õ—”‰/H¼RMINORZ
+CODE_SMELL
+†
+java:S1104""NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8×ê¤Š/H½RMINORZ
+CODE_SMELL
+G
+java:S1700 "Rename field "items"(îì‹8Õ—”‰/H¾RMAJORZ
+CODE_SMELL

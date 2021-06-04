@@ -1,0 +1,20 @@
+package com.technoelevate.restaurant;
+
+public class GetItem {
+
+	Items [] item=new Items[20];
+	Items  item1=new Items("Chapati",35.6);
+	Items  item2=new Items("FriedRice",80.0);
+	Items  item3=new Items("Roti",40);
+	Items  item4=new Items("Poori",35);
+	
+	
+	
+	
+	
+	void createItem() {
+	
+	
+	
+	}	
+}

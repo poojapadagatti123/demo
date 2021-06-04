@@ -1,0 +1,13 @@
+package com.technoelevate.jobportal;
+
+public class JobPortal {
+
+	public static void main(String[] args) {
+		CadidateDetails cadidateDetails=new CadidateDetails();
+		cadidateDetails.createCadidate();
+		cadidateDetails.checkCriteria();
+
+
+	}
+
+}

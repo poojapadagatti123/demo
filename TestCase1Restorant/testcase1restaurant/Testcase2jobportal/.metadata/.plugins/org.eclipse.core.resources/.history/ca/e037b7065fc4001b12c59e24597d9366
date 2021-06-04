@@ -1,0 +1,6 @@
+package com.technoelevate.jobportal;
+
+public class Company {
+
+	String name=" TechnoElevate";
+}

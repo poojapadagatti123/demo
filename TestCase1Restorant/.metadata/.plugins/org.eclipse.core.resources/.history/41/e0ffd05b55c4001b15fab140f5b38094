@@ -1,0 +1,12 @@
+package com.technoelevate.restaurant;
+
+public class DisplayItems {
+	GetItem createItems=new GetItem();
+    void display() {
+   	 createItems.createItem();
+   	 createItems.displayItem();
+    }
+	
+	
+	
+}

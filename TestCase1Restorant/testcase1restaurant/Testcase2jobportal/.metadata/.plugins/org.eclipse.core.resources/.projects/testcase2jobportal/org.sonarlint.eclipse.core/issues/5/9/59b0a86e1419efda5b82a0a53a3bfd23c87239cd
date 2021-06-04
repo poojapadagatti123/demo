@@ -1,0 +1,35 @@
+
+Œ
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤»œ±8Öíµ«/H˜RMINORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(“¨ÿÿÿÿÿ8×íµ«/HRMAJORZ
+CODE_SMELL
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Öíµ«/HœRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(³Î»³øÿÿÿÿ8ìÊøŒ/H•RMAJORZ
+CODE_SMELL
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(¿‹°¶şÿÿÿÿ8Öíµ«/H›RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ï­¦Íşÿÿÿÿ8ìÊøŒ/H”RMAJORZ
+CODE_SMELL
+k	java:S106("9Replace this use of System.out or System.err by a logger.(€ÆÉƒ8Öíµ«/HšRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ñ”Œ8ìÊøŒ/H‘RMAJORZ
+CODE_SMELL
+y
+java:S11268"AReplace this if-then-else statement by a single return statement.(Àç¨Àúÿÿÿÿ8×íµ«/HŸRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(É™øÌùÿÿÿÿ8ìÊøŒ/H–RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(¿Ää|8ìÊøŒ/H“RMAJORZ
+CODE_SMELL
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(ºÌåßüÿÿÿÿ8×íµ«/HRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(£è”¾ıÿÿÿÿ8ï’€/H’RMAJORZ
+CODE_SMELL
+„	java:S116
+"RRename this field "HashMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤»œ±8Öíµ«/H—RMINORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Öíµ«/H™RMAJORZ
+CODE_SMELL
